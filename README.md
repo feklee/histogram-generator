@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Creates an image with a histogram of a specified function.
+Creates an image with a histogram in the shape of a specified function.
 
 
 Legal
